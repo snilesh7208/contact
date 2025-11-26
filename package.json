@@ -1,0 +1,8 @@
+{
+  "name": "contact-form",
+  "version": "1.0.0",
+  "description": "Contact form with Netlify Functions and Nodemailer",
+  "dependencies": {
+    "nodemailer": "^6.9.13"
+  }
+}
